@@ -20,6 +20,10 @@ const routes = [
     name: 'About',
     component: About,
   },
+//  {
+//    path: '*',
+//    component: NotFoundComponent
+//  }
 ]
 
 const router = createRouter({
